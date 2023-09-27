@@ -50,7 +50,7 @@ sections:
               Responsibilities include:
 
               * Exploring deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the
-asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
+                asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
               * Exploring deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the
 asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
               * Developing a modular event data preprocessing and visualization pipeline for underwater perception group in
