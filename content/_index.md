@@ -168,6 +168,11 @@ sections:
           captcha: false
     design:
       columns: '2'
+    {{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    This is <strong>raw HTML</strong>, inside Markdown.
+  </p>
+{{< /rawhtml >}}
 ---
 
   <!-- Embed Google Map -->
