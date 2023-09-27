@@ -1,8 +1,8 @@
 ---
 title: Moses Chuka Ebere
 role: MSc Student in Intelligent Field Robotic Systems
-avatar_filename: moses-chuka-ebere..jpg
-bio: My research interests robotics
+avatar_filename: moses_chuka_ebere..jpg
+bio: My research interests include robotics, computer vision, and Machine/Deep Learning.
 interests:
   - Robotics
   - Computer Vision
