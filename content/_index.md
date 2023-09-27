@@ -42,7 +42,7 @@ sections:
         - title: Deep Learning and Neuromorphic Vision Intern
           company: ViCOROB
           company_url: 'https://vicorob.udg.edu/'
-          company_logo: org-gc
+          company_logo: VICOROB_l_1
           location: Girona
           date_start: '2023-06-09'
           date_end: '2023-09-15'
@@ -55,7 +55,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: Sabanci University 
           company_url: 'https://www.sabanciuniv.edu/en'
-          company_logo: org-x
+          company_logo: sabanci_logo
           location: Istanbul
           date_start: '2021-09-20'
           date_end: '2022-08-31'
