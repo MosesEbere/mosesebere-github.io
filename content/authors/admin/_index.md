@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Moses Chuka Ebere
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Moses
+last_name: Ebere
 
 # Status emoji
 status:
@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSc Student in Intelligent Field Robotic Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universitat de Girona
+    url: https://www.udg.edu/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests robotics
 
 # Interests to show in About widget
 interests:
@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Intelligent Field Robotic Systems
+      institution: Universitat de Girona | University of Zagreb
+      year: 2024
+    - course: MSc in Mechatronics Engineering (Not Completed)
+      institution: Sabanci University
+      year: 2022
+    - course: BSc in Mechanical Engineering
+      institution: Cukurova University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mosescebere
     label: Follow me on Twitter
     display:
       header: true
@@ -62,10 +62,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MosesEbere
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/moses-chuka-ebere/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +74,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'moseschukaebere@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Moses Chuka Ebere is an Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems at Universitat de Girona, Spain, and the University of Zagreb, Croatia. His research interests span a diverse range of cutting-edge disciplines, including robotics, computer vision, deep/machine learning, and neuromorphic processing. I am passionate about exploring the intersection of these fields to push the boundaries of technology and create innovative solutions that address complex real-world challenges. 
 {style="text-align: justify;"}
