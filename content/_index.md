@@ -47,7 +47,6 @@ sections:
           date_start: '2023-06-09'
           date_end: '2023-09-15'
           description: |2-
-              Responsibilities include:
 
               * Exploring deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
               * Collecting and preparing underwater object-detection and optical flow datasets with a Remotely-Operated Underwater Vehicle fitted with a DAVIS camera at the Institute for Underwater Robotics research lab.
