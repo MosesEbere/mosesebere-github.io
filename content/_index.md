@@ -65,7 +65,7 @@ sections:
           date_start: '2021-09-20'
           date_end: '2022-08-31'
           description: Taught Differential Equations (MATH 202) and Introduction to Probability (MATH 203) recitation classes to
-          undergraduate students over the course of two semesters.
+                      undergraduate students over the course of two semesters.
     design:
       columns: '2'
   - block: accomplishments
