@@ -46,7 +46,7 @@ sections:
           location: Girona
           date_start: '2023-06-09'
           date_end: '2023-09-15'
-          description: 
+          description: |2-
               * Exploring deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the
 asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
               * Exploring deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the
