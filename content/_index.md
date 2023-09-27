@@ -170,12 +170,6 @@ sections:
       columns: '2'
 ---
 
-{{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-    This is <strong>raw HTML</strong>, inside Markdown.
-  </p>
-{{< /rawhtml >}}
-
   <!-- Embed Google Map -->
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11126.174673054391!2d15.9713773!3d45.8003692!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f150cf2ccd%3A0x739e5c279fd98531!2sUniversity%20of%20Zagreb%2C%20Faculty%20of%20Electrical%20Engineering%20and%20Computing!5e0!3m2!1sen!2shr!4v1695857463696!5m2!1sen!2shr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
   ></iframe>
