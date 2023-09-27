@@ -49,14 +49,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Exploring deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the
-                asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
-              * Exploring deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the
-                asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
-              * Developing a modular event data preprocessing and visualization pipeline for underwater perception group in
-                Python.
-              * Experimental testing and validation of optimization-based techniques for annotating underwater object detection
-                datasets.
+              * Exploring deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
+              * Collecting and preparing underwater object-detection and optical flow datasets with a Remotely-Operated Underwater Vehicle fitted with a DAVIS camera at the Institute for Underwater Robotics research lab.
+              * Developing a modular event data preprocessing and visualization pipeline for underwater perception group in Python.
+              * Experimental testing and validation of optimization-based techniques for annotating underwater object detection datasets.
         - title: Graduate Teaching Assistant
           company: Sabanci University 
           company_url: 'https://www.sabanciuniv.edu/en'
@@ -64,8 +60,7 @@ sections:
           location: Istanbul
           date_start: '2021-09-20'
           date_end: '2022-08-31'
-          description: Taught Differential Equations (MATH 202) and Introduction to Probability (MATH 203) recitation classes to
-                      undergraduate students over the course of two semesters.
+          description: Taught Differential Equations (MATH 202) and Introduction to Probability (MATH 203) recitation classes to undergraduate students over the course of two semesters.
     design:
       columns: '2'
   - block: accomplishments
