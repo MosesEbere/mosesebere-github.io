@@ -158,8 +158,8 @@ sections:
       directions: Enter any of the buildings and locate the Robot Perception Lab
     content:
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '45.80087989204637', 
+        longitude: '15.971365968681713'
 
       # Automatically link email and phone or display as text?
       autolink: true
