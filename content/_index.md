@@ -156,15 +156,6 @@ sections:
         country: Croatia
         country_code: HR
       directions: Enter any of the buildings and locate the Robot Perception Lab
-      <div class="d-none">
-    <input id="map-provider" value="mapbox">
-    <input id="map-lat" value="47.41326298473416">
-    <input id="map-lng" value="8.548284406594423">
-    <input id="map-dir" value="Andreasstrasse 15, Zürich, 8050">
-    <input id="map-zoom" value="15">
-    <input id="map-api-key" value="">
-  </div>
-  <div id="map"></div>
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -174,7 +165,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---
