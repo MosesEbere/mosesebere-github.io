@@ -156,9 +156,9 @@ sections:
         country: Croatia
         country_code: HR
       directions: Enter any of the buildings and locate the Robot Perception Lab
-      google_maps_api_key = 'AIzaSyBs9GDHUMnY3mzJZdzuPR6fE9WKFbiE0cU'
-      latitude = '37.4275'
-      longitude = '-122.1697'
+        google_maps_api_key = 'AIzaSyBs9GDHUMnY3mzJZdzuPR6fE9WKFbiE0cU'
+        latitude = '37.4275'
+        longitude = '-122.1697'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
