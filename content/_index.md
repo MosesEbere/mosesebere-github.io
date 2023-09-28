@@ -155,8 +155,8 @@ sections:
         postcode: '10000'
         country: Croatia
         country_code: HR
-      directions: Enter any of the buildings and locate the Robot Perception Lab
       maplink: {{< leaflet latitude="51.5074" longitude="-0.1278" >}}
+      directions: Enter any of the buildings and locate the Robot Perception Lab
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
