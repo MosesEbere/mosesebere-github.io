@@ -17,7 +17,7 @@ sections:
       items:
         - name: ROS
           description: 90%
-          icon: ros-icon.svg
+          icon: ros-icon
         - name: Statistics
           description: 100%
           icon: chart-line
