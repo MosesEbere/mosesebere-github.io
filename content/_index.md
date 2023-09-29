@@ -13,7 +13,7 @@ sections:
       username: admin
   - block: features
     content:
-      title: Skills
+      title: Technical Skills
       items:
         - name: ROS
           icon: ros-icon
@@ -30,6 +30,14 @@ sections:
         - name: TensorFlow
           icon: tensorflow-icon
           icon_pack: custom
+        - name: Gazebo
+          icon: gazebo
+          icon_pack: custom
+        - name: Stonefish
+          icon: stone_fish-logo
+          icon_pack: custom
+    design:
+      columns: '4'
   - block: experience
     content:
       title: Experience
