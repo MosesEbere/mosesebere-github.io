@@ -18,6 +18,7 @@ sections:
         - name: ROS
           description: 90%
           icon: ros-icon
+          icon_pack: custom
         - name: Statistics
           description: 100%
           icon: chart-line
