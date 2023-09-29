@@ -36,8 +36,7 @@ sections:
         - name: Stonefish
           icon: stone_fish-logo
           icon_pack: custom
-      design:
-        columns: '4'
+      columns: '4'
   - block: experience
     content:
       title: Experience
