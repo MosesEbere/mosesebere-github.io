@@ -15,10 +15,9 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: ROS
           description: 90%
-          icon: r-project
-          icon_pack: fab
+          icon: ros-icon.svg
         - name: Statistics
           description: 100%
           icon: chart-line
