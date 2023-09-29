@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-09-28
 type: landing
 
 sections:
@@ -16,17 +16,20 @@ sections:
       title: Skills
       items:
         - name: ROS
-          description: 90%
           icon: ros-icon
           icon_pack: custom
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Python
+          icon: python-icon
+          icon_pack: custom
+        - name: Matlab
+          icon: Matlab_Logo
+          icon_pack: custom
+        - name: PyTorch
+          icon: pytorch-icon
+          icon_pack: custom
+        - name: TensorFlow
+          icon: tensorflow-icon
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
