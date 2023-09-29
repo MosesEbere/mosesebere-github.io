@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: R﻿obotics Semester Project
+summary: SLAM Project
 authors:
   - Moses Ebere
   - Joseph Adeola
