@@ -14,7 +14,7 @@ links:
 image:
   caption: Robot Manipulation
   focal_point: Smart
-  filename: image.png
+  filename: control-system-diagram2.drawio.png
 ---
 The goal of this project was to explore the exciting discipline of mobile manipulation in robotics.\
 To accomplish this, we completed the following:\
