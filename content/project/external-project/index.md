@@ -7,10 +7,30 @@ tags:
   - Robotics
 external_link: ""
 links:
-  - url: https://twitter.com/mosescebere
-    name: Follow
-    icon_pack: fab
-    icon: twitter
+  - icon: video
+    icon_pack: fas
+    name: Move-to-point
+    url: https://drive.google.com/file/d/1kn2_gko-IFSkljblYQMjXANdpQjNa0rN/view?usp=sharing
+  - icon: video
+    icon_pack: fas
+    name: Pick-and-place
+    url: https://drive.google.com/file/d/1KHs2diTsSIVnFagZMXMcA8l_p_WiexcS/view?usp=sharing
+  - icon: video
+    icon_pack: fas
+    name: Pick-transport-and-place
+    url: https://drive.google.com/file/d/1K6A4IXmg--vPBryF4WTcQLSJuJ77wXlQ/view?usp=sharing
+  - icon: video
+    icon_pack: fas
+    name: Pick-transport-and-place with Visual Feedback
+    url: https://drive.google.com/file/d/1lAg9mKXbvocwgNylMy-xydm41HCEizhB/view?usp=sharing
+  - icon: file-powerpoint
+    icon_pack: fas
+    name: Slides
+    url: https://drive.google.com/file/d/1GWa_pOjubxcN2Xha_cPQEmdidF82-esj/view?usp=sharing
+  - icon: book
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/1zYYLAgOqRJE_yjYbQvPuM748Q1R_CwFf/view?usp=sharing
 image:
   caption: Robot Manipulation
   focal_point: Smart
