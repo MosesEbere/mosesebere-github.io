@@ -1,24 +1,17 @@
 ---
 title: " Autonomous Frontier-Based Robot Exploration and Path Planning"
 date: 2023-09-29T15:08:31.338Z
-url_pdf: ""
 summary: SLAM Project
 authors:
   - Moses Ebere
   - Joseph Adeola
   - Preeti Verma
-url_video: https://drive.google.com/file/d/1PEf_F3UzkBr-r8IKw35gX7s7DPliBYtB/view?usp=sharing
 date: 2023-09-29T14:36:18.102Z
 external_link: ""
-url_slides: ""
 title: Pose-based EKF SLAM using ICP for Scan Registration
 tags:
   - Robotics
 links:
-  - name: Follow
-    icon_pack: fab
-    icon: twitter
-    url: https://twitter.com/mosescebere
   - icon: video
     icon_pack: fas
     name: Video
