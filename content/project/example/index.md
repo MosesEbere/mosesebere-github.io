@@ -14,10 +14,18 @@ title: Pose-based EKF SLAM using ICP for Scan Registration
 tags:
   - Robotics
 links:
-  - icon: twitter
+  - url: https://drive.google.com/file/d/1PEf_F3UzkBr-r8IKw35gX7s7DPliBYtB/view?usp=sharing
+    name: Video
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/mosescebere
+    icon: video
+  - icon: file-powerpoint
+    icon_pack: fab
+    name: Slides
+    url: https://drive.google.com/file/d/1JyMfuOR27wxJiWWq6XvO4kKM0-gFEU43/view?usp=sharing
+  - name: Report
+    icon_pack: fab
+    icon: book
+    url: https://drive.google.com/file/d/1oSkCsCm-WVmKDD7IK5GAbs2VEl246Cdo/view?usp=sharing
 image:
   caption: SLAM
   focal_point: Smart
