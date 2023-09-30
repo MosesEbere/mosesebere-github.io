@@ -12,10 +12,22 @@ authors:
 tags:
   - Neuromorphic Vision
 links:
-  - url: https://twitter.com/mosescebere
-    name: Follow
-    icon_pack: fab
-    icon: twitter
+  - icon: video
+    icon_pack: fas
+    name: Event Tracker Video
+    url: https://drive.google.com/file/d/1-G5hqHL8huC9X2n_K4D6nK4Eiw-SMkj_/view?usp=sharing
+  - icon: video
+    icon_pack: fas
+    name: GroundTruth Video
+    url: https://drive.google.com/file/d/1lrb0gsTHLV2ilZY8J5d77WqLP4vHVgNf/view?usp=sharing
+  - icon: file-powerpoint
+    icon_pack: fas
+    name: Slides
+    url: https://drive.google.com/file/d/1hdV3W1TY7xFmR7wgNJ0O0OogE2QmWqb2/view?usp=sharing
+  - icon: book
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/1c5LUlqVDj0flfkdqguSWeiyO6UckfFRC/view?usp=sharing
 image:
   filename: featured.jpg
   focal_point: Smart
