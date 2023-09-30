@@ -11,10 +11,22 @@ authors:
 tags:
   - Robotics
 links:
-  - name: Follow
-    icon_pack: fab
-    icon: twitter
-    url: https://twitter.com/mosescebere
+  - icon: video
+    icon_pack: fas
+    name: Video (Real)
+    url: https://drive.google.com/file/d/1fpwyqLnYkeVfgQACtkmG4f_qg_WIAAzI/view?usp=sharing
+  - icon: video
+    icon_pack: fas
+    name: Video (Simulation)
+    url: https://drive.google.com/file/d/1RycwcICvbDNGwVo2LzIz3QIRni1FGWvE/view?usp=sharing
+  - icon: file-powerpoint
+    icon_pack: fas
+    name: Slides
+    url: https://drive.google.com/file/d/1BN-tIN-Hm9lha8pHJ_98k4_xcZX8OHol/view?usp=sharing
+  - icon: book
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/1MaKMFX-0fcy2AHRoYE0A3tnU_WSLY-Q8/view?usp=sharing
 image:
   filename: path_plan.png
   focal_point: Smart
