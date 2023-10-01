@@ -18,7 +18,7 @@ links:
   - icon: book
     icon_pack: fas
     name: Report
-    url: https://drive.google.com/file/d/1uo5gHFy89dUKNRSunYBKvTdJQoX5jP0n/view?usp=sharing
+    url: https://drive.google.com/file/d/1aUCzHSmlDRThpmZoUU5Uk83FfAI0ACnv/view?usp=sharing
 image:
   filename: featured.jpg
   focal_point: Smart
