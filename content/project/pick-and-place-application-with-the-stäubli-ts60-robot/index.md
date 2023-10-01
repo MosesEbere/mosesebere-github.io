@@ -18,7 +18,7 @@ links:
   - icon: book
     icon_pack: fas
     name: Report
-    url: https://drive.google.com/file/d/1SRl_T-PbYFRFS8dFWuzbFox7czE8GKwH/view?usp=sharing
+    url: https://drive.google.com/file/d/1aPR2mKm8HVClOIRoVWpmKaSMeXWIaC-c/view?usp=sharing
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -31,4 +31,4 @@ I﻿n the application pipeline, packages are dispensed automatically before they
 
 T﻿he full solution was developed using the SRS Stäubli suite and sufficiently tested in simulation before deploying on the hardware. 
 
-T﻿his project was done as part of a series of laboratory sections in the robotics lab at the University of Girona.
+T﻿his project was completed as part of a series of laboratory sections in the robotics lab at the University of Girona.
