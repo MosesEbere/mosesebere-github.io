@@ -10,6 +10,15 @@ authors:
   - Preeti Verma
 tags:
   - Industrial Robots
+links:
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: https://drive.google.com/file/d/1aKrhzGyr0Auz40XHXGWk59_aASbLIbHi/view?usp=sharing
+  - icon: book
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/1a7-33tB9iOz16_1MgKiRfXHQJLAx19fK/view?usp=sharing
 image:
   filename: featured.jpg
   focal_point: Smart
