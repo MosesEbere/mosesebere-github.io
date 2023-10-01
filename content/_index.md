@@ -96,6 +96,10 @@ sections:
           tag: Robotics
         - name: Neuromorphic Vision
           tag: Neuromorphic Vision
+        - name: Industrial Robots
+          tag: Industrial Robots
+        - name: Computer Vision
+          tag: Computer Vision
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
