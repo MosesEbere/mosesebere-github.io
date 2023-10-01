@@ -109,7 +109,7 @@ sections:
       text: |-
         {{< gallery album="gallery_photos" >}}
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: featured
     content:
