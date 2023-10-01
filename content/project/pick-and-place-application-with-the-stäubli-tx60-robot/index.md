@@ -1,7 +1,7 @@
 ---
 title: Pick and Place Application with the Stäubli TX60 Robot
 date: 2023-10-01T21:21:45.840Z
-summary: I﻿ndustrial Robots Project
+summary: Industrial Robot Project
 draft: false
 featured: false
 authors:
