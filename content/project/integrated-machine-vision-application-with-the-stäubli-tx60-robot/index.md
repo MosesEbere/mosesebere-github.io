@@ -10,6 +10,7 @@ authors:
   - Preeti Verma
 tags:
   - Industrial Robots
+  - Computer Vision
 links:
   - icon: video
     icon_pack: fas
