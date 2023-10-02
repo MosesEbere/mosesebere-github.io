@@ -8,7 +8,7 @@ authors:
   - Moses Ebere
   - Biram Bawo
 tags:
-  - ComputerVision
+  - Computer Vision
 links:
   - name: Code
     icon_pack: fas
