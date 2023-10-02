@@ -1,6 +1,6 @@
 ---
 title: " Lane Detection and Distance Estimation using a Monocular Camera"
-date: 2023-10-01T22:40:54.727Z
+date: 2023-09-27T13:38:31.338Z
 summary: C﻿omputer Vision Project
 draft: false
 featured: false
