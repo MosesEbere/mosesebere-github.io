@@ -1,6 +1,6 @@
 ---
 title: Pick and Place Application with the Stäubli TS60 Robot
-date: 2023-10-01T21:11:17.114Z
+date: 2023-09-29T14:08:31.338Z
 summary: I﻿ndustrial Robot Project
 draft: false
 featured: false
