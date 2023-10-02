@@ -13,8 +13,12 @@ tags:
 links:
   - icon: video
     icon_pack: fas
-    name: Video
+    name: Simulation Implementation
     url: https://drive.google.com/file/d/1LZKQDQFDvICbNO9TPoZ9PdlU2wQQhSYe/view?usp=sharing
+  - icon: video
+    icon_pack: fas
+    name: Real Robot Implementation 
+    url: https://drive.google.com/file/d/1V2GTVkTomQQViEsOUmajFos93Ll_3ju4/view?usp=sharing
 image:
   filename: featured.jpg
   focal_point: Smart
