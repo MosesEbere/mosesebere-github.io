@@ -1,6 +1,6 @@
 ---
 title: Data-Driven Control of a DC Motor Using System Identification Techniques
-date: 2023-10-01T23:08:27.690Z
+date: 2023-09-28T14:08:31.338Z
 summary: S﻿ystem Identification Project
 draft: false
 featured: false
