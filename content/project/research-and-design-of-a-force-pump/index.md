@@ -1,6 +1,6 @@
 ---
 title: Research and Design of a Force Pump
-date: 2023-10-01T23:29:18.828Z
+date: 2023-09-27T15:08:31.338Z
 summary: C﻿omputer-Aided Design Project
 draft: false
 featured: false
