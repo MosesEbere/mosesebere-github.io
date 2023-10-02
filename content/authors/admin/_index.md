@@ -14,15 +14,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mosescebere
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/MosesEbere
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/moses-chuka-ebere/
+    label: Let's connect on LinkedIn
+    display:
+      header: true
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
