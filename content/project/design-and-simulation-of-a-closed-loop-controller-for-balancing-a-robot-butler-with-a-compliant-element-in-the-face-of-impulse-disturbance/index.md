@@ -1,7 +1,7 @@
 ---
 title: " Design and Simulation of a Closed-Loop Controller for Balancing a Robot
   Butler (with a compliant element) in the Face of Impulse Disturbance"
-date: 2023-10-01T23:01:01.580Z
+date: 2023-09-28T15:08:31.338Z
 summary: R﻿obotics Control Project
 draft: false
 featured: false
