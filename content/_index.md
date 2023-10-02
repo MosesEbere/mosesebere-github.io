@@ -100,6 +100,10 @@ sections:
           tag: Industrial Robots
         - name: Computer Vision
           tag: Computer Vision
+        - name: CAD
+          tag: CAD
+        - name: Control
+          tag: Control
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
