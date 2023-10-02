@@ -1,6 +1,6 @@
 ---
 title: " Integrated Machine Vision Application with the Stäubli TX60 Robot"
-date: 2023-10-01T21:34:54.965Z
+date: 2023-09-29T14:38:31.338Z
 summary: I﻿ndustrial Robot Project
 draft: false
 featured: false
