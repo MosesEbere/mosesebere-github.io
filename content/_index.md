@@ -63,9 +63,9 @@ sections:
           description: |2-
 
               * Explored deep learning architectures such as SNNs, Recurrent ViTs, and Asynchronous CNNs, that leverage the asynchronous nature of event data from event-based vision sensors for object detection using PyTorch.
-              * Curated underwater object-detection and optical flow datasets with a remotely-operated Underwater Vehicle fitted with a DAVIS camera at the Institute for Underwater Robotics research lab.
+              * Curated underwater object-detection and optical flow datasets with a remotely operated Underwater Vehicle fitted with a DAVIS camera at the Institute for Underwater Robotics research lab.
               * Developed a modular event data preprocessing and visualization pipeline for the underwater perception group in Python.
-              * Experimental tested and validated optimization-based techniques for annotating underwater object detection datasets.
+              * Experimentally tested and validated optimization-based techniques for annotating underwater object detection datasets.
         - title: Graduate Teaching Assistant
           company: Sabanci University 
           company_url: 'https://www.sabanciuniv.edu/en'
