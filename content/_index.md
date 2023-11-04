@@ -103,6 +103,8 @@ sections:
           tag: Industrial Robots
         - name: Computer Vision
           tag: Computer Vision
+        - name: Reinforcement Learning
+          tag: Reinforcement Learning
         - name: CAD
           tag: CAD
         - name: Control
