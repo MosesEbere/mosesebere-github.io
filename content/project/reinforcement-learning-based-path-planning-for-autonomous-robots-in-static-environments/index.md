@@ -11,6 +11,11 @@ authors:
 tags:
   - Robotics
   - Reinforcement Learning
+links:
+  - icon: video
+    icon_pack: fas
+    name: Video
+    url: https://drive.google.com/file/d/1uTSyRr9wZ97qH6WT5faLlAshhQAb7DuN/view?usp=drive_link
 image:
   filename: https://drive.google.com/file/d/1uTSyRr9wZ97qH6WT5faLlAshhQAb7DuN/view?usp=drive_link
   focal_point: Smart
