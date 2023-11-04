@@ -12,7 +12,7 @@ tags:
   - Robotics
   - Reinforcement Learning
 image:
-  filename: q-learning.gif
+  filename: https://drive.google.com/file/d/1uTSyRr9wZ97qH6WT5faLlAshhQAb7DuN/view?usp=drive_link
   focal_point: Smart
   preview_only: false
   caption: Reinforcement Learning
