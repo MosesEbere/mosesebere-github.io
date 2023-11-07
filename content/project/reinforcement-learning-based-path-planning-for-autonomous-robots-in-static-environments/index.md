@@ -16,6 +16,10 @@ links:
     icon_pack: fas
     name: Video
     url: https://drive.google.com/file/d/1uTSyRr9wZ97qH6WT5faLlAshhQAb7DuN/view?usp=drive_link
+  - icon: book
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/14YrXzG1wVmnErHRjzjsN07l_RIv4um35/view?usp=drive_link
 image:
   filename: https://drive.google.com/file/d/1uTSyRr9wZ97qH6WT5faLlAshhQAb7DuN/view?usp=drive_link
   focal_point: Smart
