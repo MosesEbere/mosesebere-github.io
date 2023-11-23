@@ -144,7 +144,7 @@ sections:
         postcode: '10000'
         country: Croatia
         country_code: HR
-      directions: Enter any of the buildings and locate the Robot Perception Lab
+      directions: Enter the D-building and locate the Laboratory for Robotics and Intelligent Control Systems (LARICS).
       coordinates:
         latitude: '45.80087989204637'
         longitude: '15.971365968681713'
