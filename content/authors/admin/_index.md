@@ -51,5 +51,5 @@ first_name: Moses
 email: moseschukaebere@gmail.com
 ---
 
-Moses Chuka Ebere is an Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems at Universitat de Girona, Spain, and the University of Zagreb, Croatia. His research interests span a diverse range of cutting-edge disciplines, including robotics, computer vision, deep/machine learning, and neuromorphic processing. I am passionate about exploring the intersection of these fields to push the boundaries of technology and create innovative solutions that address complex real-world challenges. 
+Moses Chuka Ebere is an Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems at Universitat de Girona, Spain, and the University of Zagreb, Croatia. His research interests span a diverse range of cutting-edge disciplines, including robotics, computer vision, deep/machine learning, and neuromorphic processing. He is passionate about exploring the intersection of these fields to push the boundaries of technology and create innovative solutions that address complex real-world challenges. 
 {style="text-align: justify;"}
