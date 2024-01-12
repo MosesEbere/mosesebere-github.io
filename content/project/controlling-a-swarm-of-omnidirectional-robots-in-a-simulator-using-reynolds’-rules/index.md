@@ -12,8 +12,21 @@ authors:
   - Nada Elsayed Abbas
 tags:
   - Robotics
+links:
+  - icon: video
+    icon_pack: fas
+    name: Demo Videos
+    url: https://drive.google.com/drive/folders/1_SvOxjlmt7w-MyqUQo5wPxWnhk7myUXQ?usp=sharing
+  - icon: file-powerpoint
+    icon_pack: fas
+    name: Slides
+    url: https://docs.google.com/presentation/d/1aDjviKdi5GM9d_JgCk9qEbm-q0vmppn6QXxR2qgRIuA/edit?usp=sharing
+  - icon: book
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/1AU1p8NbJkrCIrgaVI7rVj1MP6kr288h8/view?usp=sharing
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Swarm Robotics
