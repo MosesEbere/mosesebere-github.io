@@ -32,6 +32,7 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Autonomous Exploration
+<!-- filename: path_plan.png -->
 ---
 The goal was to design an autonomous robot exploration algorithm for a Kobuki Turtlebot 2 robot.
 
@@ -39,5 +40,4 @@ The developed ROS-based architecture integrates key modules, including a frontie
 
 Subsequently, the software architecture was sufficiently evaluated in both Gazebo and Stonefish simulation environments before it was deployed on the real hardware. The results demonstrate improved exploration capabilities and collision-free path planning in dynamic environments.
 
-\
 As a final step, this project was integrated with other project modules - SLAM, perception, and manipulation - in fully autonomous pick-transport-and-place applications.
