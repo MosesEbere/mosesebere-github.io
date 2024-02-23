@@ -1,5 +1,5 @@
 ---
-title: " Autonomous Frontier-Based Robot Exploration and Path Planning"
+title: "Pose-based EKF SLAM using ICP for Scan Registration"
 date: 2023-10-01T15:08:31.338Z
 summary: SLAM Project
 authors:
@@ -7,7 +7,6 @@ authors:
   - Joseph Adeola
   - Preeti Verma
 external_link: ""
-title: Pose-based EKF SLAM using ICP for Scan Registration
 tags:
   - Robotics
 links:
@@ -24,10 +23,10 @@ links:
     name: Report
     url: https://drive.google.com/file/d/1oSkCsCm-WVmKDD7IK5GAbs2VEl246Cdo/view?usp=sharing
 image:
-  caption: SLAM
-  focal_point: Smart
   filename: https://drive.google.com/file/d/1RqqEWtF9OrZV8raxo1x1uXW5p7cchcyE/view?usp=sharing
-url_code: ""
+  focal_point: Smart
+  preview_only: false
+  caption: SLAM
 <!-- filename: featured.jpg -->
 ---
 A comprehensive ROS-based project that involved developing and implementing a pose-based SLAM algorithm for the robot (in simulation and in the real world) where the iterative closest point (ICP) algorithm was used for registering LiDAR scans. By fusing the registration outcome with data from the robot’s IMU, the robot’s pose was updated in a timely manner. Additionally, we developed an algorithmic method of constraining the size of the state vector while maintaining the fidelity of the robot’s entire trajectory.
