@@ -23,7 +23,7 @@ links:
     name: Report
     url: https://drive.google.com/file/d/1oSkCsCm-WVmKDD7IK5GAbs2VEl246Cdo/view?usp=sharing
 image:
-  filename: https://drive.google.com/file/d/1RqqEWtF9OrZV8raxo1x1uXW5p7cchcyE/view?usp=sharing
+  filename: featured.gif
   focal_point: Smart
   preview_only: false
   caption: SLAM
