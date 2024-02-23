@@ -28,7 +28,7 @@ links:
     name: Report
     url: https://drive.google.com/file/d/1MaKMFX-0fcy2AHRoYE0A3tnU_WSLY-Q8/view?usp=sharing
 image:
-  filename: path_plan.png
+  filename: featured.gif
   focal_point: Smart
   preview_only: false
   caption: Autonomous Exploration
