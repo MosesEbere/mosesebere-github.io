@@ -2,7 +2,7 @@
 title: Controlling a Swarm of Omnidirectional Robots in a Simulator Using
   Reynolds’ Rules
 date: 2024-01-12T00:34:07.252Z
-summary: M﻿ulti-Robot System Project
+summary: M﻿ulti-Robot Systems Project
 draft: false
 featured: true
 authors:
