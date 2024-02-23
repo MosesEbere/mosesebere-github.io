@@ -105,6 +105,8 @@ sections:
           tag: Computer Vision
         - name: Reinforcement Learning
           tag: Reinforcement Learning
+        - name: LLMs
+          tag: LLMs
         - name: CAD
           tag: CAD
         - name: Control
