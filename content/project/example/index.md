@@ -26,8 +26,9 @@ links:
 image:
   caption: SLAM
   focal_point: Smart
-  filename: featured.jpg
+  filename: https://drive.google.com/file/d/1RqqEWtF9OrZV8raxo1x1uXW5p7cchcyE/view?usp=sharing
 url_code: ""
+<!-- filename: featured.jpg -->
 ---
 A comprehensive ROS-based project that involved developing and implementing a pose-based SLAM algorithm for the robot (in simulation and in the real world) where the iterative closest point (ICP) algorithm was used for registering LiDAR scans. By fusing the registration outcome with data from the robot’s IMU, the robot’s pose was updated in a timely manner. Additionally, we developed an algorithmic method of constraining the size of the state vector while maintaining the fidelity of the robot’s entire trajectory.
 
