@@ -29,7 +29,7 @@ image:
   preview_only: false
   caption: Multi-Agent LLM-based Swarm Robots
 ---
-**Project Overview:** Our team of two master’s students embarked on a groundbreaking project at the University of Zagreb, aimed at revolutionizing Human-Robot Interaction (HRI) by integrating computer vision, speech recognition, and multi-agent Large Language Models (LLMs). We developed a sophisticated system that interprets human gestures and verbal commands to dynamically control a swarm of robots, making interaction more intuitive and efficient.
+**Project Overview:** Our team of two master’s students embarked on a groundbreaking project at the University of Zagreb, aimed at revolutionizing Human-Robot Interaction (HRI) by integrating computer vision, speech recognition, and multi-agent Large Language Models (LLMs). We developed a sophisticated system that interprets human gestures, text, and verbal commands to dynamically control a swarm of robots, making interaction more intuitive and efficient.
 
 **Innovative Contributions:**
 
