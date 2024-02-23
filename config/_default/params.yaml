@@ -21,7 +21,7 @@ marketing:
     description: Joint MSc in Intelligent Field Robotic Systems.
     twitter: 'mosescebere'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-3D4JYNRJ4N'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
@@ -96,9 +96,9 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: google
-    api_key: AIzaSyBs9GDHUMnY3mzJZdzuPR6fE9WKFbiE0cU
-    zoom: 15
+    provider: ''
+    api_key: ''
+    zoom: ''
 
 # Extensions
 
