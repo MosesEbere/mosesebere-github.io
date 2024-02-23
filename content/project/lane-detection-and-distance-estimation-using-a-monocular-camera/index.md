@@ -19,7 +19,7 @@ links:
     icon: book
     url: https://drive.google.com/file/d/1lNm1oxBGxwG6Bx87OkI1JYe1Zfjsw9r6/view?usp=sharing
 image:
-  filename: roads_v2.gif
+  filename: featured.gif
   focal_point: Smart
   preview_only: false
   caption: Detected Lanes
