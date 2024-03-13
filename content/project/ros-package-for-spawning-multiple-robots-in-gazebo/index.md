@@ -1,9 +1,9 @@
 ---
 title: ROS Package for Spawning Multiple Robots in Gazebo
-date: 2024-03-13T20:57:53.530Z
+date: 2024-02-16T20:57:53.530Z
 summary: M﻿ulti-robots ROS Package
 draft: false
-featured: false
+featured: true
 authors:
   - Moses Chuka Ebere
   - Joseph Oloruntoba Adeola
