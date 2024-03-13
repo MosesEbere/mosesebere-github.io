@@ -1,6 +1,6 @@
 ---
 title: Stereo Visual Odometry on the KITTI Dataset
-date: 2024-03-13T20:53:01.387Z
+date: 2024-02-17T20:53:01.387Z
 summary: V﻿isual Odometry Project
 draft: false
 featured: true
