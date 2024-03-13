@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning-Based Path Planning for Autonomous Robots in
   Static Environments
-date: 2023-11-04T12:50:29.170Z
+date: 2023-09-29T11:50:29.170Z
 summary: Q﻿-learning Project
 draft: false
 featured: false
