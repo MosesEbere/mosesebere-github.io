@@ -6,6 +6,8 @@ summary: R﻿obot Manipulation/Intervention Project
 tags:
   - Robotics
 external_link: ""
+aliases:
+  - /project/task-priority-redundancy-resolution-algorithm-for-a-mobile-base-manipulator-robot
 links:
   - icon: video
     icon_pack: fas
