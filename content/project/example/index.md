@@ -7,6 +7,8 @@ authors:
   - Joseph Adeola
   - Preeti Verma
 external_link: ""
+aliases:
+  - /project/pose-based-ekf-slam/
 tags:
   - Robotics
 links:
