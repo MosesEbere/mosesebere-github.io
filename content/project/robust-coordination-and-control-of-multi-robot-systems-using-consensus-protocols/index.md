@@ -13,6 +13,10 @@ authors:
 tags:
   - Robotics
 links:
+  - icon: code
+    icon_pack: fas
+    name: Code
+    url: https://github.com/MosesEbere/multi-robot-consensus
   - name: Demo Videos
     icon_pack: fas
     icon: video
