@@ -12,7 +12,7 @@ tags:
 links:
   - icon: code
     icon_pack: fas
-    name: code
+    name: Code
     url: https://github.com/MosesEbere/gazebo_multi_robot_spawn
 image:
   filename: three_lines_spawn_30.gif
