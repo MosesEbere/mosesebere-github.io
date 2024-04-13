@@ -13,6 +13,10 @@ authors:
 tags:
   - Robotics
 links:
+  - name: Code
+    icon: code
+    icon_pack: fas
+    url: https://github.com/KhAlamdar11/ReynoldsSwarmSim
   - icon: video
     icon_pack: fas
     name: Demo Videos
