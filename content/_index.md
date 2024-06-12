@@ -4,9 +4,6 @@ title:
 date: 2023-09-28
 type: landing
 
-aliases:
-  - /project/masters-thesis/
-
 sections:
   - block: about.biography
     id: about
@@ -165,4 +162,9 @@ sections:
           captcha: true
     design:
       columns: '2'
+
+
+
+aliases:
+  - /masters-thesis/
 ---
