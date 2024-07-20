@@ -33,7 +33,7 @@ organizations:
     url: http://www.unizg.hr/homepage/
 education:
   courses:
-    - course: MSc in Intelligent Field Robotic Systems
+    - course: Joint MSc in Intelligent Field Robotic Systems
       institution: Universitat de Girona | University of Zagreb
       year: 2024
     - course: MSc in Mechatronics Engineering (Not Completed)
