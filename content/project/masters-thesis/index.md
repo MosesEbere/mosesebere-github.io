@@ -14,7 +14,7 @@ links:
     name: Demo Videos
     url: https://drive.google.com/drive/folders/1ysQytZkwJkPYDVc7gZBs3ZXn2tMJxavr?usp=sharing
 image:
-  filename: dual_arm_girona1000_optimal_kinematic_control.gif
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
