@@ -14,7 +14,7 @@ links:
     icon_pack: fas
     icon: video
 image:
-  filename: featured.jpg
+  filename: dual_arm_girona1000_optimal_kinematic_control.gif
   focal_point: Smart
   preview_only: false
   caption: Optimization-based Kinematic Control Pipeline
