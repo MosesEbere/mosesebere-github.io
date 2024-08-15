@@ -20,10 +20,11 @@ links:
     name: Report
     url: https://drive.google.com/file/d/1aPr91n5oAYynJxZ6tkZL88Wp2k3vadhR/view?usp=sharing
 image:
-  filename: featured.jpg
+  filename: TX60.gif
   focal_point: Smart
   preview_only: false
   caption: TX60
+<!-- filename: featured.jpg -->
 ---
 T﻿his project was aimed at developing a robotics solution for effective parts assembly and palletizing in an industrial setting. The six-degree-of-freedom TX60 robot fitted with a gripper end-effector was chosen as the industrial arm for this application. 
 
