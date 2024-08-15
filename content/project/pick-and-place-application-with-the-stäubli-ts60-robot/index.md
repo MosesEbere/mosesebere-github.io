@@ -20,10 +20,11 @@ links:
     name: Report
     url: https://drive.google.com/file/d/1aPR2mKm8HVClOIRoVWpmKaSMeXWIaC-c/view?usp=sharing
 image:
-  filename: featured.jpg
+  filename: TS60.gif
   focal_point: Smart
   preview_only: false
   caption: TS60
+<!-- filename: featured.jpg -->
 ---
 T﻿his project was aimed at developing a robotics solution for effective package classification and palletizing in an industrial setting. The four-degree-of-freedom SCARA TS60 robot fitted with a vacuum end-effector was chosen as the industrial arm for this application. 
 
