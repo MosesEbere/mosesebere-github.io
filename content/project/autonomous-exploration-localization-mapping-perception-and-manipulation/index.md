@@ -20,9 +20,10 @@ links:
     name: Real Robot Implementation 
     url: https://drive.google.com/file/d/1V2GTVkTomQQViEsOUmajFos93Ll_3ju4/view?usp=sharing
 image:
-  filename: featured.jpg
+  filename: Robot_Manipulation.gif
   focal_point: Smart
   preview_only: false
+<!-- filename: featured.jpg -->
 ---
 T﻿he idea behind this project was to transform a differential drive robot equipped with a 4-DOF robotic arm into an autonomous explorer and mobile manipulator.  More specifically, the goal was to develop a series of algorithms for the aforementioned robot to autonomously explore its environment while localizing itself, find objects of interest using its onboard sensors, and manipulate them - i.e., pick, transport, and place the objects in set locations. 
 
