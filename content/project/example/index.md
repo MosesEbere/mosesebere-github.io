@@ -12,6 +12,10 @@ aliases:
 tags:
   - Robotics
 links:
+  - name: Code
+    icon: code
+    icon_pack: fas
+    url: https://github.com/adeola-jo/Pose-Based-EKF-SLAM-ICP
   - icon: video
     icon_pack: fas
     name: Video
