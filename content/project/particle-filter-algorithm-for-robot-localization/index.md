@@ -7,6 +7,8 @@ featured: false
 authors:
   - Moses Chuka Ebere
   - Joseph Oloruntoba Adeola
+tags:
+  - Robotics
 links:
   - url: https://github.com/adeola-jo/Robot-Localization-Particle-Filter
     name: Code
