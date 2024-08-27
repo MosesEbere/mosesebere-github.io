@@ -162,6 +162,11 @@ sections:
           captcha: true
     design:
       columns: '2'
+
+
+aliases:
+  - /masters-thesis/
+---
 <form name="contact" netlify>
   <p>
     <label>Name <input type="text" name="name" /></label>
@@ -173,8 +178,3 @@ sections:
     <button type="submit">Send</button>
   </p>
 </form>
-
-
-aliases:
-  - /masters-thesis/
----
