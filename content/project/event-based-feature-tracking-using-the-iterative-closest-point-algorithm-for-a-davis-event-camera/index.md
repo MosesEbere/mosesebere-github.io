@@ -11,6 +11,7 @@ authors:
   - Preeti Verma
 tags:
   - Neuromorphic Vision
+  - Computer Vision
 links:
   - icon: video
     icon_pack: fas
