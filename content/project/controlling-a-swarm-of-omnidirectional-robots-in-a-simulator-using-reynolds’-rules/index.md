@@ -12,6 +12,7 @@ authors:
   - Nada Elsayed Abbas
 tags:
   - Robotics
+  - Multi-Robot Systems
 links:
   - name: Code
     icon: code
