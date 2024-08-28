@@ -8,6 +8,7 @@ authors:
   - Moses Chuka Ebere
 tags:
   - Robotics
+  - Manipulation
 links:
   - icon: videos
     icon_pack: fas
