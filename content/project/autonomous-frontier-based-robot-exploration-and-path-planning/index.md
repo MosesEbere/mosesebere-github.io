@@ -10,6 +10,7 @@ authors:
   - Preeti Verma
 tags:
   - Robotics
+  - Exploration & Planning
 links:
   - icon: video
     icon_pack: fas
