@@ -10,6 +10,9 @@ authors:
   - Preeti Verma
 tags:
   - Robotics
+  - State Estimation/SLAM
+  - Exploration & Planning
+  - Manipulation
 links:
   - icon: video
     icon_pack: fas
