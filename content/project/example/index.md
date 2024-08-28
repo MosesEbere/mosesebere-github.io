@@ -11,6 +11,7 @@ aliases:
   - /project/pose-based-ekf-slam/
 tags:
   - Robotics
+  - Localization//SLAM
 links:
   - name: Code
     icon: code
