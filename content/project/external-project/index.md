@@ -5,6 +5,7 @@ date: 2023-09-29T16:03:44.825Z
 summary: R﻿obot Manipulation/Intervention Project
 tags:
   - Robotics
+  - Manipulation
 external_link: ""
 aliases:
   - /project/task-priority-redundancy-resolution-algorithm-for-a-mobile-base-manipulator-robot
