@@ -9,6 +9,7 @@ authors:
   - Joseph Oloruntoba Adeola
 tags:
   - Robotics
+  - Localization//SLAM
 links:
   - url: https://github.com/adeola-jo/Robot-Localization-Particle-Filter
     name: Code
