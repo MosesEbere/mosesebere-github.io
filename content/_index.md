@@ -97,6 +97,8 @@ sections:
           tag: '*'
         - name: Robotics
           tag: Robotics
+        - name: Multi-Robot Systems
+          tag: Multi-Robot Systems
         - name: Neuromorphic Vision
           tag: Neuromorphic Vision
         - name: Industrial Robots
@@ -107,8 +109,6 @@ sections:
           tag: Reinforcement Learning
         - name: LLMs
           tag: LLMs
-        - name: CAD
-          tag: CAD
         - name: Control
           tag: Control
     design:
