@@ -10,6 +10,7 @@ authors:
 tags:
   - Robotics
   - LLMs
+  - Multi-Robot Systems
 links:
   - url: https://drive.google.com/drive/folders/1XM-vsduA-TXC_88UCu2qsBz0QXbR68oI?usp=sharing
     name: Demo Videos
