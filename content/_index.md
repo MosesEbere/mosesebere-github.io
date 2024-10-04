@@ -21,6 +21,9 @@ sections:
         - name: Python
           icon: python-icon
           icon_pack: custom
+        - name: C++
+          icon: c
+          icon_pack: custom
         - name: Matlab
           icon: Matlab_Logo
           icon_pack: custom
