@@ -1,6 +1,6 @@
 ---
 title: Moses Chuka Ebere
-role: MSc Student in Intelligent Field Robotic Systems
+role: PhD Candidate in Robotics
 avatar_filename: moses-chuka-ebere..jpg
 bio: My research interests include robotics, computer vision, and Machine/Deep Learning.
 interests:
@@ -27,20 +27,21 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Universitat de Girona
-    url: https://www.udg.edu/en/
-  - name: University of Zagreb
-    url: http://www.unizg.hr/homepage/
+  - name: Delft University of Technology
+    url: https://www.tudelft.nl/en/me/about/departments/cognitive-robotics-cor
 education:
   courses:
+    - course: PhD in Robotics
+      institution: Delft University of Technology
+      year: 2024 - present
     - course: Joint MSc in Intelligent Field Robotic Systems
       institution: Universitat de Girona | University of Zagreb
       year: 2024
     - course: MSc in Mechatronics Engineering (Not Completed)
-      institution: Sabanci University
+      institution: Sabancı University
       year: 2022
     - course: BSc in Mechanical Engineering
-      institution: Cukurova University
+      institution: Çukurova University
       year: 2021
 superuser: true
 status:
@@ -51,5 +52,7 @@ first_name: Moses
 email: moseschukaebere@gmail.com
 ---
 
-Moses Chuka Ebere is an Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems at Universitat de Girona, Spain, and the University of Zagreb, Croatia. His research interests span a diverse range of cutting-edge disciplines, including robotics, computer vision, deep/machine learning, and neuromorphic processing. He is passionate about exploring the intersection of these fields to push the boundaries of technology and create innovative solutions that address complex real-world challenges. 
+I am a **PhD Researcher at TU Delft**, focusing on **Safe Planning and Control for Autonomous Robots**. My research investigates **what safety truly entails for autonomous robotic systems**, how we can **quantify and benchmark safety**, and how to **develop adaptive, real-time safety formulations** that ensure reliable robot behavior in dynamic environments.
+
+Before my PhD, I earned an **Erasmus Mundus Joint Master's Degree in Intelligent Field Robotic Systems (IFRoS)**, where I explored the four pillars of robotics—localization, perception, planning, and manipulation—and developed solutions for mobile robots, multi-robot systems, aerial robots, and autonomous underwater vehicles (AUVs). I conducted my thesis at the **Girona Underwater Vision and Robotics Lab (CIRS)**, working on an **optimization-based whole-body kinematic control framework for intervention autonomous underwater vehicles (I-AUVs)**. My work focused on finely integrating **stability and safety guarantees** into the control architecture.
 {style="text-align: justify;"}
