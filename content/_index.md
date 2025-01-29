@@ -141,18 +141,18 @@ sections:
       text: |-
         Feel free to leave me a message.
       # Contact (add or remove contact options as necessary)
-      email: moseschukaebere@gmail.com
+      email: m.c.ebere@tudelft.nl
       phone: +34 645 287 887
       address:
-        street: Unska ul. 3
-        city: Zagreb
-        postcode: '10000'
-        country: Croatia
-        country_code: HR
-      directions: Enter the D-building and locate the Laboratory for Robotics and Intelligent Control Systems (LARICS).
+        street: Building 34, Mekelweg 2
+        city: Delft
+        postcode: 2628 CD
+        country: Netherlands
+        country_code: NL
+      directions: 34.F-1-560
       coordinates:
-        latitude: '45.80087989204637'
-        longitude: '15.971365968681713'
+        latitude: '52.000978'
+        longitude: '4.3718974'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
