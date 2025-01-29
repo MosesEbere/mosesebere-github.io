@@ -53,6 +53,7 @@ email: moseschukaebere@gmail.com
 ---
 
 I am a **PhD Researcher at TU Delft**, focusing on **Safe Planning and Control for Autonomous Robots**. My research investigates **what safety truly entails for autonomous robotic systems**, how we can **quantify and benchmark safety**, and how to **develop adaptive, real-time safety formulations** that ensure reliable robot behavior in dynamic environments.
+{style="text-align: justify;"}
 
 Before my PhD, I earned an **Erasmus Mundus Joint Master's Degree in Intelligent Field Robotic Systems (IFRoS)**, where I explored the four pillars of robotics—localization, perception, planning, and manipulation—and developed solutions for mobile robots, multi-robot systems, aerial robots, and autonomous underwater vehicles (AUVs). I conducted my thesis at the **Girona Underwater Vision and Robotics Lab (CIRS)**, working on an **optimization-based whole-body kinematic control framework for intervention autonomous underwater vehicles (I-AUVs)**. My work focused on finely integrating **stability and safety guarantees** into the control architecture.
 {style="text-align: justify;"}
