@@ -59,7 +59,7 @@ sections:
         - title: Doctoral Researcher in Robotics
           company: Delft University of Technology 
           company_url: 'https://www.tudelft.nl/en/me/about/departments/cognitive-robotics-cor'
-          company_logo: TUDelft_logo_rgb
+          company_logo: TU_Delft_Logo
           location: Delft
           date_start: '2024-11-01'
           date_end: '2028-10-31'
