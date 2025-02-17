@@ -62,7 +62,7 @@ sections:
           company_logo: TUDelft_logo_rgb
           location: Delft
           date_start: '2024-11-01'
-          date_end: 'date'
+          date_end: '2028-10-31'
           description: |2-
               * Conducting research on ”Safe Planning and Control for Autonomous Robots,” at the Department of Cognitive Robotics.
         - title: Deep Learning and Neuromorphic Vision Intern
