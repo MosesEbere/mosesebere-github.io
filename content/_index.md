@@ -56,6 +56,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Doctoral Researcher in Robotics
+          company: Delft University of Technology 
+          company_url: 'https://www.tudelft.nl/en/me/about/departments/cognitive-robotics-cor'
+          company_logo: TUDelft_logo_rgb
+          location: Delft
+          date_start: '2024-11-01'
+          date_end: 'date'
+          description: |2-
+              * Conducting research on ”Safe Planning and Control for Autonomous Robots,” at the Department of Cognitive Robotics.
         - title: Deep Learning and Neuromorphic Vision Intern
           company: ViCOROB
           company_url: 'https://vicorob.udg.edu/'
